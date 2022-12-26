@@ -1,3 +1,1 @@
-普通的游戏，无聊可以玩
-用scratch语言创作
-
+Ordinary games, bored can be played with Scratch language creation
