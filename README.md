@@ -1,4 +1,4 @@
-Slap the ball
+slap-the-ball
 It's a casual game
 
                    1.9【Download】：https://github.com/qwe361/slap-the-ball/releases/download/1.9/slap.the.ball1.9.html
