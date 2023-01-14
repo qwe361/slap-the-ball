@@ -5,5 +5,4 @@ It's a casual game
                  
 2.0【Download】：https://github.com/qwe361/slap-the-ball/releases/download/2.0/slap.the.ball2.0.html
 
-Latest version【Download】：https://github.com/qwe361/slap-the-ball/releases/download/2.4/slap.the.ball2.4.zip
-                    
+Latest version【Download】：https://github.com/qwe361/slap-the-ball/releases/download/3.0/slap.the.ball3.0.html
